@@ -1,3 +1,3 @@
-Project folder for Civic Analytics
+# Project folder for Civic Analytics
 
-Identifying buildings at risk of Flood Inundation in NYC
+### Identifying buildings at risk of Flood Inundation in NYC
